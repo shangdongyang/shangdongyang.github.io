@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shangdong Yang (杨尚东) - Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Assistant professor in the School of Computer Science. Graduating from Nanjing University. Focusing on RL (reinforcement learning and robot learning)"
 repository               : "shangdongyang/shangdongyang.github.io"
 google_scholar_stats_use_cdn : true
 
