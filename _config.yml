@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shangdong Yang (杨尚东) - Homepage"
-description              : "Assistant professor in the School of Computer Science. Graduating from Nanjing University. Focusing on RL (reinforcement learning and robot learning)"
+description              : "Assistant professor in the School of Computer Science. Graduating from Nanjing University. Focusing on reinforcement learning and multi agent system."
 repository               : "shangdongyang/shangdongyang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/178/8734.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
