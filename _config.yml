@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shangdong Yang (杨尚东) - Homepage"
-description              : "Assistant professor in the School of Computer Science. Graduating from Nanjing University. Focusing on reinforcement learning and multi agent system."
+description              : "Assistant professor in the School of Computer Science. Graduating from Nanjing University. Focusing on reinforcement learning and multi-agent systems."
 repository               : "shangdongyang/shangdongyang.github.io"
 google_scholar_stats_use_cdn : true
 
