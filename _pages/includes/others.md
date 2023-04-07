@@ -3,7 +3,7 @@
 - *2009.09 - 2013.06*, Bachelor, School of Information Science and Technology, Southwest Jiaotong University, Chengdu.
 - *2006.09 - 2009.06*, Huaiyin High School, Huai'an.
 
-# 📖 Teaching
+# 📖 Courses
 - Data Structure
 
 <!--
