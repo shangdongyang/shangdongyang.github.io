@@ -107,7 +107,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - Wubing Chen, Wenbin Li, Xiao Liu, **Shangdong Yang**, Yang Gao. Learning Explicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning via Polarization Policy Gradient, **AAAI 2023**.
 - Zhenxing Ge, **Shangdong Yang**, Pinzhuo Tian, Zixuan Chen, Yang Gao. [Modeling Rationality: Toward Better Performance Against Unknown Agents in Sequential Games](https://ieeexplore.ieee.org/abstract/document/9999061), **IEEE Transactions on Cybernetics**, 2023.
 
-## Multi-armed Bandit
+## Multi-armed Bandits
 - **Shangdong Yang**, Yang Gao. [An Optimal Algorithm for the Stochastic Bandits While Knowing the Near-optimal Mean Reward](https://ieeexplore.ieee.org/abstract/document/9104874), **IEEE Transactions on Neural Networks and Learning Systems**, 2021, 32(5):2285-2291.
 - **Shangdong Yang**, Hao Wang, Chenyu Zhang, Yang Gao. [Contextual Bandits with Hidden Features to Online Recommendation Via Sparse Interactions](https://ieeexplore.ieee.org/abstract/document/9144427), **IEEE Intelligent Systems**, 2020, 35(5):62-72.
 - Chenyu Zhang, Hao Wang, **Shangdong Yang**, Yang Gao. [A Contextual Bandit Approach to Personalized Online Recommendation via Sparse Interactions](https://link.springer.com/chapter/10.1007/978-3-030-16145-3_31), **PAKDD 2019**.
