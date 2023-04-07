@@ -99,10 +99,11 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ## Reinforcement Learning
 - **Shangdong Yang**, Huihui Wang, Shaokang Dong, Xingguo Chen. [Leveraging Transition Exploratory Bonus for Efficient Exploration in Hard-Transiting Reinforcement Learning Problems](https://www.sciencedirect.com/science/article/pii/S0167739X2300136X?via%3Dihub), **Future Generation Computer Systems**, 2023.
 - Xiao Liu, Shuyang Liu, Bo An, Yang Gao, **Shangdong Yang**, Wenbin Li. Effective Interpretable Policy Distillation via Critical Experiences Identification, **IEEE Intelligent Systems**, 2023.
-- Yunkai Zhuang, **Shangdong Yang**, Wenbin Li, Yang Gao. Convergence Analysis of Graphical Game-based Nash Q−learning Using the Interaction Detection Signal of N−step Return, **ICASSP 2023**.
+- Xingguo Chen, Dingyuanhao Sun, Guang Yang, **Shangdong Yang**, Yang Gao. A Survey of Reinforcement Learning Algorithms from a Fixed Point Perspective, **Chinese Journal of Computers**, 2022
 - **Shangdong Yang**, Yang Gao, Bo An, Hao Wang, Xingguo Chen. [Efficient Average Reward Reinforcement Learning Using Constant Shifting Values](https://ojs.aaai.org/index.php/AAAI/article/view/10285), **AAAI 2016**.
 
 ## Multi-Agent Systems
+- Yunkai Zhuang, **Shangdong Yang**, Wenbin Li, Yang Gao. Convergence Analysis of Graphical Game-based Nash Q−learning Using the Interaction Detection Signal of N−step Return, **ICASSP 2023**.
 - Wubing Chen, Wenbin Li, Xiao Liu, **Shangdong Yang**, Yang Gao. Learning Explicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning via Polarization Policy Gradient, **AAAI 2023**.
 - Zhenxing Ge, **Shangdong Yang**, Pinzhuo Tian, Zixuan Chen, Yang Gao. [Modeling Rationality: Toward Better Performance Against Unknown Agents in Sequential Games](https://ieeexplore.ieee.org/abstract/document/9999061), **IEEE Transactions on Cybernetics**, 2023.
 
