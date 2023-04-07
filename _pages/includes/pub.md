@@ -19,5 +19,5 @@
 
 ## Others
 - Fan Meng, Qunli Yang, Zhengda He, **Shangdong Yang***, Weidong Tang. [GUARD: Multigranularity-based Unsupervised Anomaly Detection Algorithm for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/10016429), **CCIS 2022**.
-- Yansheng Wu, Chengju Li, **Shangdong Yang***. [New Galois Hulls of Generalized Reed-solomon Codes](https://www.sciencedirect.com/science/article/pii/S1071579722000934), **Finite Fields and Their Applications**, 2023, 83:102084.
+- Yansheng Wu, Chengju Li, **Shangdong Yang***. [New Galois Hulls of Generalized Reed-solomon Codes](https://www.sciencedirect.com/science/article/pii/S1071579722000934), **Finite Fields and Their Applications**, 2022, 83:102084.
 - Chenyu Zhang, Hao Wang, **Shangdong Yang**, Yang Gao. [Incremental Nonnegative Matrix Factorization Based on Matrix Sketching and k-means Clustering](https://link.springer.com/chapter/10.1007/978-3-319-46257-8_46), **IDEAL 2016**.
