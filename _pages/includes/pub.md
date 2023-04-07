@@ -98,9 +98,12 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## Reinforcement Learning
 - **Shangdong Yang**, Huihui Wang, Shaokang Dong, Xingguo Chen. [Leveraging Transition Exploratory Bonus for Efficient Exploration in Hard-Transiting Reinforcement Learning Problems](https://www.sciencedirect.com/science/article/pii/S0167739X2300136X?via%3Dihub), **Future Generation Computer Systems**, 2023.
-- Xiao Liu, Shuyang Liu, Bo An, Yang Gao, **Shangdong Yang**, Wenbin Li. [Effective Interpretable Policy Distillation via Critical Experiences Identification], **IEEE Intelligent Systems**, 2023.
-- Yunkai Zhuang, **Shangdong Yang**, Wenbin Li, Yang Gao. [Convergence Analysis of Graphical Game-based Nash Q−learning Using the Interaction Detection Signal of N−step Return], **ICASSP 2023**.
+- Xiao Liu, Shuyang Liu, Bo An, Yang Gao, **Shangdong Yang**, Wenbin Li. Effective Interpretable Policy Distillation via Critical Experiences Identification, **IEEE Intelligent Systems**, 2023.
+- Yunkai Zhuang, **Shangdong Yang**, Wenbin Li, Yang Gao. Convergence Analysis of Graphical Game-based Nash Q−learning Using the Interaction Detection Signal of N−step Return, **ICASSP 2023**.
 
 ## Multi-Agent Systems
-- Wubing Chen, Wenbin Li, Xiao Liu, **Shangdong Yang**, Yang Gao. [Learning Explicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning via Polarization Policy Gradient], **AAAI 2023**.
+- Wubing Chen, Wenbin Li, Xiao Liu, **Shangdong Yang**, Yang Gao. Learning Explicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning via Polarization Policy Gradient, **AAAI 2023**.
 - Zhenxing Ge, **Shangdong Yang**, Pinzhuo Tian, Zixuan Chen, Yang Gao. [Modeling Rationality: Toward Better Performance Against Unknown Agents in Sequential Games](https://ieeexplore.ieee.org/abstract/document/9999061), **IEEE Transactions on Cybernetics**, 2023.
+
+## Others
+- Fan Meng, Qunli Yang, Zhengda He, **Shangdong Yang'*'**, Weidong Tang. [GUARD: Multigranularity-based Unsupervised Anomaly Detection Algorithm for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/10016429), **CCIS 2022**.
