@@ -106,4 +106,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - Zhenxing Ge, **Shangdong Yang**, Pinzhuo Tian, Zixuan Chen, Yang Gao. [Modeling Rationality: Toward Better Performance Against Unknown Agents in Sequential Games](https://ieeexplore.ieee.org/abstract/document/9999061), **IEEE Transactions on Cybernetics**, 2023.
 
 ## Others
-- Fan Meng, Qunli Yang, Zhengda He, **Shangdong Yang'*'**, Weidong Tang. [GUARD: Multigranularity-based Unsupervised Anomaly Detection Algorithm for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/10016429), **CCIS 2022**.
+- Fan Meng, Qunli Yang, Zhengda He, **Shangdong Yang***, Weidong Tang. [GUARD: Multigranularity-based Unsupervised Anomaly Detection Algorithm for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/10016429), **CCIS 2022**.
