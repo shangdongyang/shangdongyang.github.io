@@ -3,6 +3,9 @@
 - *2009.09 - 2013.06*, Bachelor, School of Information Science and Technology, Southwest Jiaotong University, Chengdu.
 - *2006.09 - 2009.06*, Huaiyin High School, Huai'an.
 
+# Teaching
+- Data Structure
+
 <!--
 # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
