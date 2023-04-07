@@ -1,9 +1,9 @@
-# 📖 Educations
+# 🎓 Educations
 - *2013.09 - 2020.06*, Doctor, Department of Computer Science and Technology, Nanjing University, Nanjing.
 - *2009.09 - 2013.06*, Bachelor, School of Information Science and Technology, Southwest Jiaotong University, Chengdu.
 - *2006.09 - 2009.06*, Huaiyin High School, Huai'an.
 
-# Teaching
+# 📖 Teaching
 - Data Structure
 
 <!--
