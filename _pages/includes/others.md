@@ -4,7 +4,7 @@
 - *2006.09 - 2009.06*, Huaiyin High School, Huai'an.
 
 # 💬 Invited Talks
-- *2018.08*, Excellent Paper Report, The 5th Seminar on Agents and multi-agent system of CCF
+- *2018.08*, Excellent Paper Report, the 5th Seminar on Agents and Multi-agent System of CCF
 
 # 📚 Courses
 - Data Structure, Undergraduate Courses at NJUPT
