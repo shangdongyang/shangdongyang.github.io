@@ -7,7 +7,7 @@
 - *2018.08*, Excellent Paper Report, the 5th Seminar on Agents and Multi-agent System of CCF
 
 # 📚 Courses
-- Data Structure, Undergraduate Courses at NJUPT
+- Data Structure, Undergraduate Course at NJUPT
 
 <!--
 # 💻 Internships
