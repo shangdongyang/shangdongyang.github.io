@@ -1,5 +1,6 @@
 # 👨‍🎓 Educations
 - *2013.09 - 2020.06*, Doctor, Department of Computer Science and Technology, Nanjing University, Nanjing.
+- *2016.10 - 2016.11*, Visiting Student, [Data Science Lab](https://datasciences.org/) of the University of Technology Sydney (UTS), led by [Prof. Longbing Cao](https://profiles.uts.edu.au/longbing.cao)
 - *2009.09 - 2013.06*, Bachelor, School of Information Science and Technology, Southwest Jiaotong University, Chengdu.
 - *2006.09 - 2009.06*, Huaiyin High School, Huai'an.
 
