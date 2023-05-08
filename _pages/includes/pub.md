@@ -1,6 +1,7 @@
 
 # 📝 Publications 
 ## 🐕 Reinforcement Learning
+- Xingguo Chen, Xingzhou Ma, Yang Li, Guang Yang, **Shangdong Yang**, Yang Gao. [Modified Retrace for Off-Policy Temporal Difference Learning](https://openreview.net/forum?id=e5Th-IghYTM), **UAI 2023**.
 - **Shangdong Yang**, Huihui Wang, Shaokang Dong, Xingguo Chen. [Leveraging Transition Exploratory Bonus for Efficient Exploration in Hard-Transiting Reinforcement Learning Problems](https://www.sciencedirect.com/science/article/pii/S0167739X2300136X?via%3Dihub), **Future Generation Computer Systems**, 2023, 145: 442-453.
 - Xiao Liu, Shuyang Liu, Bo An, Yang Gao, **Shangdong Yang**, Wenbin Li. Effective Interpretable Policy Distillation via Critical Experiences Identification, **IEEE Intelligent Systems**, 2023.
 - Xingguo Chen, Dingyuanhao Sun, Guang Yang, **Shangdong Yang**, Yang Gao. A Survey of Reinforcement Learning Algorithms from a Fixed Point Perspective, **Chinese Journal of Computers**, 2022
