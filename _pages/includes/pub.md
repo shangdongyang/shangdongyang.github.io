@@ -9,7 +9,7 @@
 
 ## 🧑🏻‍🤝‍🧑🏼 Multi-agent Systems
 - Yunkai Zhuang, **Shangdong Yang**, Wenbin Li, Yang Gao. Convergence Analysis of Graphical Game-based Nash Q−learning Using the Interaction Detection Signal of N−step Return, **ICASSP 2023**.
-- Wubing Chen, Wenbin Li, Xiao Liu, **Shangdong Yang**, Yang Gao. Learning Explicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning via Polarization Policy Gradient, **AAAI 2023**.
+- Wubing Chen, Wenbin Li, Xiao Liu, **Shangdong Yang**, Yang Gao. [Learning Explicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning via Polarization Policy Gradient](https://ojs.aaai.org/index.php/AAAI/article/view/26364), **AAAI 2023**.
 - Zhenxing Ge, **Shangdong Yang**, Pinzhuo Tian, Zixuan Chen, Yang Gao. [Modeling Rationality: Toward Better Performance Against Unknown Agents in Sequential Games](https://ieeexplore.ieee.org/abstract/document/9999061), **IEEE Transactions on Cybernetics**, 2023.
 
 ## 🎰 Multi-armed Bandits
