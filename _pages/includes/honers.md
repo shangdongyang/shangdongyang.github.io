@@ -1,4 +1,5 @@
 # 🏆 Honors and Awards
+- *2023.07*, Outstanding Paper Award, CCFAI 2023
 - *2022.09*, Youth Fund of the National Natural Science Foundation of China, NSFC
 - *2022.07*, State Key Laboratory of Novel Software Technology Project, Nanjing University
 - *2020.10*, Double-Innovation Doctor Project, Jiangsu Province
