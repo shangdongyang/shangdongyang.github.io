@@ -8,7 +8,7 @@
 - *2018.08*, Excellent Paper Report, the 5th Seminar on Agents and Multi-agent System of CCF
 
 # 📚 Courses
-- [Python Programming](https://github.com/shangdongyang/shangdongyang.github.io/course/python/index.html) (for NJUPT undergraduate students, Fall, 2023)
+- [Python Programming](https://shangdongyang.github.io/course/python/index.html) (for NJUPT undergraduate students, Fall, 2023)
 - Data Structure (for NJUPT undergraduate students, Fall and Spring, 2021/2022)
 
 <!--
