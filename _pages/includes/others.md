@@ -8,8 +8,8 @@
 - *2018.08*, Excellent Paper Report, the 5th Seminar on Agents and Multi-agent System of CCF
 
 # 📚 Courses
-- Python Programming, Undergraduate Course at NJUPT
-- Data Structure, Undergraduate Course at NJUPT
+- Python Programming (for NJUPT undergraduate students, Fall, 2023)
+- Data Structure (for NJUPT undergraduate students, Fall and Spring, 2021/2022)
 
 <!--
 # 💻 Internships
