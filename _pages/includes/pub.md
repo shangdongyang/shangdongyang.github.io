@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 ## 🐕 Reinforcement Learning
-- Xingguo Chen, Guang Yang, **Shangdong Yang**, Huihui Wang, Shaokang Dong, Yang Gao. Online Attentive Kernel-Based Temporal Difference Learning, **Knowledge-Based Systems**, 2023.
+- Xingguo Chen, Guang Yang, **Shangdong Yang**, Huihui Wang, Shaokang Dong, Yang Gao. [Online Attentive Kernel-Based Temporal Difference Learning](https://arxiv.org/abs/2201.09065), **Knowledge-Based Systems**, 2023.
 - **Shangdong Yang**, Miaoying Yu, Xingguo Chen, Wenbin Li, Lei Chen. Group-wise Contrastive Learning Based Sequence-aware Skill Discovery, **CCFAI** 2023/Chinese Journal of Computers, under review.
 - Hongye Cao, **Shangdong Yang**, Jing Huo, Xingguo Chen, Yang Gao. Enhancing OOD Generalization in Offline Reinforcement Learning with Energy-Based Policy Optimization, **ECAI 2023**.
 - Xingguo Chen, Xingzhou Ma, Yang Li, Guang Yang, **Shangdong Yang**, Yang Gao. [Modified Retrace for Off-Policy Temporal Difference Learning](https://openreview.net/forum?id=e5Th-IghYTM), **UAI 2023**.
