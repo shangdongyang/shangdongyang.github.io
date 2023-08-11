@@ -1,4 +1,5 @@
 # 🔥 News
+- *2023.08*: One paper on “Reinforcement learning” is accepted by KBS.
 - *2023.07*: One paper on “Reinforcement learning” is awarded as Outstanding Paper by CCFAI 2023.
 - *2023.07*: One paper on “Reinforcement learning” is accepted by ECAI 2023.
 - *2023.05*: One paper on “Reinforcement learning” is accepted by UAI 2023.
