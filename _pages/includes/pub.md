@@ -3,7 +3,7 @@
 ## 🐕 Reinforcement Learning
 - Xingguo Chen, Guang Yang, **Shangdong Yang**, Huihui Wang, Shaokang Dong, Yang Gao. [Online Attentive Kernel-Based Temporal Difference Learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006524?fr=RR-2&ref=pdf_download&rr=7fa33c97ba723f89), **Knowledge-Based Systems**, 2023.
 - **Shangdong Yang**, Miaoying Yu, Xingguo Chen, Wenbin Li, Lei Chen. Group-wise Contrastive Learning Based Sequence-aware Skill Discovery, **CCFAI** 2023/Journal of Software, under review.
-- Hongye Cao, **Shangdong Yang**, Jing Huo, Xingguo Chen, Yang Gao. Enhancing OOD Generalization in Offline Reinforcement Learning with Energy-Based Policy Optimization, **ECAI 2023**.
+- Hongye Cao, **Shangdong Yang**, Jing Huo, Xingguo Chen, Yang Gao. [Enhancing OOD Generalization in Offline Reinforcement Learning with Energy-Based Policy Optimization](https://ebooks.iospress.nl/volumearticle/64220), **ECAI 2023**.
 - Xingguo Chen, Xingzhou Ma, Yang Li, Guang Yang, **Shangdong Yang**, Yang Gao. [Modified Retrace for Off-Policy Temporal Difference Learning](https://openreview.net/forum?id=e5Th-IghYTM), **UAI 2023**.
 - **Shangdong Yang**, Huihui Wang, Shaokang Dong, Xingguo Chen. [Leveraging Transition Exploratory Bonus for Efficient Exploration in Hard-Transiting Reinforcement Learning Problems](https://www.sciencedirect.com/science/article/pii/S0167739X2300136X?via%3Dihub), **Future Generation Computer Systems**, 2023, 145: 442-453.
 - Xiao Liu, Shuyang Liu, Bo An, Yang Gao, **Shangdong Yang**, Wenbin Li. [Effective Interpretable Policy Distillation via Critical Experiences Identification](https://ieeexplore.ieee.org/abstract/document/10098283), **IEEE Intelligent Systems**, 2023.
