@@ -11,6 +11,7 @@
 - **Shangdong Yang**, Yang Gao, Bo An, Hao Wang, Xingguo Chen. [Efficient Average Reward Reinforcement Learning Using Constant Shifting Values](https://ojs.aaai.org/index.php/AAAI/article/view/10285), **AAAI 2016**.
 
 ## 🧑🏻‍🤝‍🧑🏼 Multi-agent Systems
+- Shaokang Dong, Hanyu Mao, **Shangdong Yang**, Shengyu Zhu, Wenbin Li, Jianye Hao, Yang Gao. [WToE: Learning When to Explore in Multi-Agent Reinforcement Learning], **IEEE Transactions on Cybernetics**, 2023.
 - Yunkai Zhuang, **Shangdong Yang**, Wenbin Li, Yang Gao. [Convergence Analysis of Graphical Game-based Nash Q−learning Using the Interaction Detection Signal of N−step Return](https://ieeexplore.ieee.org/document/10095235), **ICASSP 2023**.
 - Wubing Chen, Wenbin Li, Xiao Liu, **Shangdong Yang**, Yang Gao. [Learning Explicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning via Polarization Policy Gradient](https://ojs.aaai.org/index.php/AAAI/article/view/26364), **AAAI 2023**.
 - Zhenxing Ge, **Shangdong Yang**, Pinzhuo Tian, Zixuan Chen, Yang Gao. [Modeling Rationality: Toward Better Performance Against Unknown Agents in Sequential Games](https://ieeexplore.ieee.org/abstract/document/9999061), **IEEE Transactions on Cybernetics**, 2023.
