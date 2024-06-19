@@ -11,6 +11,8 @@
 - **Shangdong Yang**, Yang Gao, Bo An, Hao Wang, Xingguo Chen. [Efficient Average Reward Reinforcement Learning Using Constant Shifting Values](https://ojs.aaai.org/index.php/AAAI/article/view/10285), **AAAI 2016**.
 
 ## 🧑🏻‍🤝‍🧑🏼 Multi-agent Systems
+- Wubing Chen, **Shangdong Yang**, Wenbin Li, Yujing Hu, Xiao Liu, Yang Gao. [Learning Multi-intersection Traffic Signal Control  via Coevolutionary Multi-Agent Reinforcement  Learning](https://ieeexplore.ieee.org/document/10556581), **IEEE Transactions on Intelligent Transportation Systems**, 2024.
+- Chao Li, Yujing Hu, **Shangdong Yang**, Tangjie Lv, Changjie Fan, Wenbin Li, Chongjie Zhang, Yang Gao. STAR: Spatio-Temporal State Compression for Multi-Agent Tasks with Rich Observations, **IJCAI 2024**.
 - Chao Li, Shaokang Dong, **Shangdong Yang**, Hongye Cao, Wenbin Li, Yang Gao. Multi-agent Sparse Interaction Modeling Is an Anomaly Detection Problem, **ICASSP 2024**.
 - Shaokang Dong, Hangyu Mao, **Shangdong Yang**, Shengyu Zhu, Wenbin Li, Jianye Hao, Yang Gao. [WToE: Learning When to Explore in Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/document/10324374), **IEEE Transactions on Cybernetics**, 2023.
 - Yunkai Zhuang, **Shangdong Yang**, Wenbin Li, Yang Gao. [Convergence Analysis of Graphical Game-based Nash Q−learning Using the Interaction Detection Signal of N−step Return](https://ieeexplore.ieee.org/document/10095235), **ICASSP 2023**.
