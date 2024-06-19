@@ -1,4 +1,6 @@
 # 🔥 News
+- *2024.06*: One paper on “Multi-agent reinforcement learning” is accepted by TITS.
+- *2024.04*: One paper on “Multi-agent reinforcement learning” is accepted by IJCAI 2024.
 - *2023.12*: One paper on “Multi-agent reinforcement learning” is accepted by ICASSP 2024.
 - *2023.10*: One paper on “Multi-agent reinforcement learning” is accepted by TCYB.
 - *2023.08*: One paper on “Reinforcement learning” is accepted by KBS.
