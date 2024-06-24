@@ -2,7 +2,8 @@
 # 📝 Publications 
 ## 🐕 Reinforcement Learning
 - Xingguo Chen, Guang Yang, **Shangdong Yang**, Huihui Wang, Shaokang Dong, Yang Gao. [Online Attentive Kernel-Based Temporal Difference Learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006524?fr=RR-2&ref=pdf_download&rr=7fa33c97ba723f89), **Knowledge-Based Systems**, 2023.
-- **Shangdong Yang**, Miaoying Yu, Xingguo Chen, Wenbin Li, Lei Chen. Group-wise Contrastive Learning Based Sequence-aware Skill Discovery, **CCFAI** 2023/Journal of Software, accepted.
+- **Shangdong Yang**, Miaoying Yu, Xingguo Chen, Wenbin Li, Lei Chen. Group-wise Contrastive Learning Based Sequence-aware Skill Discovery, **CCFAI 2023 best paper/Journal of Software**, accepted.
+- Hongye Cao, Xiao Liu, Shaokang Dong, **Shangdong Yang**, Jing Huo, Wenbin Li, Yang Gao. A Survey of Interpretability Research Methods for Reinforcement Learning, **Chinese Journal of Computers**, accepted.
 - Hongye Cao, **Shangdong Yang**, Jing Huo, Xingguo Chen, Yang Gao. [Enhancing OOD Generalization in Offline Reinforcement Learning with Energy-Based Policy Optimization](https://ebooks.iospress.nl/volumearticle/64220), **ECAI 2023**.
 - Xingguo Chen, Xingzhou Ma, Yang Li, Guang Yang, **Shangdong Yang**, Yang Gao. [Modified Retrace for Off-Policy Temporal Difference Learning](https://openreview.net/forum?id=e5Th-IghYTM), **UAI 2023**.
 - **Shangdong Yang**, Huihui Wang, Shaokang Dong, Xingguo Chen. [Leveraging Transition Exploratory Bonus for Efficient Exploration in Hard-Transiting Reinforcement Learning Problems](https://www.sciencedirect.com/science/article/pii/S0167739X2300136X?via%3Dihub), **Future Generation Computer Systems**, 2023, 145: 442-453.
@@ -13,6 +14,7 @@
 ## 🧑🏻‍🤝‍🧑🏼 Multi-agent Systems
 - Wubing Chen, **Shangdong Yang**, Wenbin Li, Yujing Hu, Xiao Liu, Yang Gao. [Learning Multi-intersection Traffic Signal Control  via Coevolutionary Multi-Agent Reinforcement  Learning](https://ieeexplore.ieee.org/document/10556581), **IEEE Transactions on Intelligent Transportation Systems**, 2024.
 - Chao Li, Yujing Hu, **Shangdong Yang**, Tangjie Lv, Changjie Fan, Wenbin Li, Chongjie Zhang, Yang Gao. STAR: Spatio-Temporal State Compression for Multi-Agent Tasks with Rich Observations, **IJCAI 2024**.
+- Shaokang Dong, Chao Li, Guang Yang, Zhenxing Ge, Hongye Cao, Wubing Chen, **Shangdong Yang**, Xingguo Chen, Wenbin Li, Yang Gao. [Survey on Solutions and Applications for Mixed-motive Games](https://www.jos.org.cn/jos/article/abstract/7212), **Journal of Software**, 2024.
 - Chao Li, Shaokang Dong, **Shangdong Yang**, Hongye Cao, Wenbin Li, Yang Gao. Multi-agent Sparse Interaction Modeling Is an Anomaly Detection Problem, **ICASSP 2024**.
 - Shaokang Dong, Hangyu Mao, **Shangdong Yang**, Shengyu Zhu, Wenbin Li, Jianye Hao, Yang Gao. [WToE: Learning When to Explore in Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/document/10324374), **IEEE Transactions on Cybernetics**, 2023.
 - Yunkai Zhuang, **Shangdong Yang**, Wenbin Li, Yang Gao. [Convergence Analysis of Graphical Game-based Nash Q−learning Using the Interaction Detection Signal of N−step Return](https://ieeexplore.ieee.org/document/10095235), **ICASSP 2023**.
