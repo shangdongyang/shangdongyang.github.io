@@ -12,7 +12,7 @@
 - **Shangdong Yang**, Yang Gao, Bo An, Hao Wang, Xingguo Chen. [Efficient Average Reward Reinforcement Learning Using Constant Shifting Values](https://ojs.aaai.org/index.php/AAAI/article/view/10285), **AAAI 2016**.
 
 ## 🧑🏻‍🤝‍🧑🏼 Multi-agent Systems
-- Shaokang Dong, Chao Li, **Shangdong Yang**, Wenbin Li, Yang Gao.[Decentralized Counterfactual Value with Threat Detection for Multi-Agent Reinforcement Learning in Mixed Cooperative and Competitive Environments](https://www.sciencedirect.com/science/article/pii/S0957417424019833), **Expert Systems with Applications**, 2024, 257: 125116.
+- Shaokang Dong, Chao Li, **Shangdong Yang**, Wenbin Li, Yang Gao. [Decentralized Counterfactual Value with Threat Detection for Multi-Agent Reinforcement Learning in Mixed Cooperative and Competitive Environments](https://www.sciencedirect.com/science/article/pii/S0957417424019833), **Expert Systems with Applications**, 2024, 257: 125116.
 - Wubing Chen, **Shangdong Yang**, Wenbin Li, Yujing Hu, Xiao Liu, Yang Gao. [Learning Multi-intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement  Learning](https://ieeexplore.ieee.org/document/10556581), **IEEE Transactions on Intelligent Transportation Systems**, 2024.
 - Chao Li, Yujing Hu, **Shangdong Yang**, Tangjie Lv, Changjie Fan, Wenbin Li, Chongjie Zhang, Yang Gao. STAR: Spatio-Temporal State Compression for Multi-Agent Tasks with Rich Observations, **IJCAI 2024**.
 - Shaokang Dong, Chao Li, Guang Yang, Zhenxing Ge, Hongye Cao, Wubing Chen, **Shangdong Yang**, Xingguo Chen, Wenbin Li, Yang Gao. [Survey on Solutions and Applications for Mixed-motive Games](https://www.jos.org.cn/jos/article/abstract/7212), **Journal of Software**, 2024.
